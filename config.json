@@ -1,0 +1,11 @@
+{
+  "dga_entropy_threshold": 3.6,
+  "min_vowel_ratio": 0.2,
+  "fast_flux_ip_threshold": 4,
+  "tunneling_query_length_threshold": 35,
+  "mitre_mappings": {
+    "DGA": "T1568.002 (Dynamic Resolution: Domain Generation Algorithms)",
+    "DNS_TUNNELING": "T1071.004 (Application Layer Protocol: DNS Covert Channel)",
+    "FAST_FLUX": "T1568.001 (Dynamic Resolution: Fast Flux DNS)"
+  }
+}
